@@ -1,8 +1,3 @@
-# SCP_UserGuide
-
-single-cell RNA-seq analysis R package SCP user guide Chinese version （未完整）
-
-
 # SCP单细胞数据分析使用说明
 
 ## 数据质控
@@ -70,6 +65,7 @@ single-cell RNA-seq analysis R package SCP user guide Chinese version （未完�
 
 * BPPARAM: 线程设置，默认使用所有线程，如设置两个线程设置参数BPPARAM = BiocParallel::MulticoreParam(workers = 2)
 
+
 ## 差异基因富集分析及画图
 
 1. GO,KEGG 富集分析
@@ -107,6 +103,7 @@ single-cell RNA-seq analysis R package SCP user guide Chinese version （未完�
 
 RunDynamicFeatures
 
+
 ## PAGA分析
 
 ## Velocity RNA速率分析
@@ -130,6 +127,7 @@ marker-cells图（热图，小提琴图等）
 差异基因热图+富集结果展示图
 
 差异基因富集结果可视化  EnrichmentPlot
+
 
 ### 比例相关图
 
