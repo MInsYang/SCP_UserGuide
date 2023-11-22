@@ -1,7 +1,7 @@
 # SCP_UserGuide
 
 single-cell RNA-seq analysis R package SCP user guide Chinese version （未完整）
-
+SCP version: v0.5.5
 
 # SCP单细胞数据分析使用说明
 
